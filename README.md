@@ -9,4 +9,7 @@ Tools used:
 # Project Description
 As a data analyst intern, I worked on a project for the Fulton County Sheriff's Office IT Department to help develop a Critical Systems Application Catalog. This catalog serves as a central hub, similar to an app store, that consolidates all online services and tools used by the Sheriff's Office. Our team gathered information on various applications from the IT Department, evaluated their functionality, and assigned criticality scores. These scores help prioritize applications during maintenance emergencies, ensuring efficient operations. We also created guidelines to address any overlaps within the catalog system.
 
-I created a dataset out of the information we gathered and conducted a Service Criticality Analysis. This analysis serves as a basic standardized framework to evaluate risks associated with different departments. This includes factors like likelihood of risk events, potential severity of impacts, and the ability to mitigate or recover from these events.
+I created a dataset from the information we gathered and conducted a Service Criticality Analysis. It's a basic Risk Assessment Framework that should serve as the standard for evaluating risks associated with different departments. It also includes information about the likelihood of risk events, potential severity of impacts, and offers recommendation on how to mitigate or recover from these events.
+
+There are two documents included in this project:
+
