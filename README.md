@@ -11,3 +11,7 @@ As a data analyst intern, I worked on a project for the Fulton County Sheriff's 
 
 I created a dataset from the information we gathered and conducted a Service Criticality Analysis. It's a basic Risk Assessment Framework that will serve as a foundation for evaluating risks associated with different departments. It also includes information about the likelihood of risk events, potential severity of impacts, and recommendations on how to mitigate or recover from these events.
 
+This project contains two documents (Microsoft Word and Excel):
+
+1. [Final Project Report](https://github.com/rml-lee/Excel-Service-Criticality-Analysis/blob/main/Fall%202022%20FC%20Sheriff_s%20Office%20Critical%20Systems%20Catalogue.docx)
+2. [Service Criticality Analysis](https://github.com/rml-lee/Excel-Service-Criticality-Analysis/blob/main/Service%20Criticality%20Analysis.xlsx)
